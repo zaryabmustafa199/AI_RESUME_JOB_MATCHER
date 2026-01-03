@@ -1,0 +1,46 @@
+AI/ML Engineer (On-Site, Night Shift, Urgent Hiring)
+
+We are seeking a talented and motivated AI/ML Developer to join our dynamic team. This is a full-time, on-site position working the night shift (EDT time zone). If you have a passion for building cutting-edge AI and machine learning solutions and thrive in a fast-paced environment, we’d love to hear from you!
+
+What We Offer:
+• Professional and technical growth.
+• Offer a variety of AI projects that challenge your skills and expand your expertise.
+• Competitive, market-aligned salary.
+• Positive work environment with a strong, inclusive culture.
+• Numerous opportunities for professional growth and career advancement.
+
+What You Will Do:
+• Need to complete Upwork client task on time with best practices.
+• Direct communication with client.
+• Propose solutions and implement them with high accuracy.
+• Design, develop, and deploy AI and machine learning models to solve complex business problems.
+• Work with large datasets to build, train, and optimize machine learning algorithms.
+• Collaborate with cross-functional teams including data engineers, software developers, and product managers to deliver scalable AI solutions.
+• Implement and maintain AI/ML pipelines, ensuring performance, reliability, and security.
+• Write clean, maintainable, and testable code following industry best practices.
+• Participate in code reviews and contribute to team knowledge sharing.
+• Use Git for version control and participate in deployment workflows.
+• Troubleshoot, debug, and resolve technical issues related to AI/ML systems.
+• Stay updated with the latest AI/ML research, tools, and best practices.
+
+What We Are Looking For:
+• Bachelor’s degree in Computer Science, Engineering, Data Science, or a related field.
+• 1.5 to 2 years experience in AI/ML development or relevant internships/projects.
+• Strong programming skills in AI/ML libraries such as TensorFlow, PyTorch, scikit-learn, or similar.
+• Experience with data preprocessing, feature engineering, and working with structured and unstructured data.
+• Knowledge of MLOps practices and tools.
+• Domain expertise in specific industries (healthcare, finance, robotics) is a plus but not mandatory.
+• Understanding of machine learning algorithms, deep learning, natural language processing (NLP), and computer vision techniques.
+• Experience with databases (SQL Server, MySQL, PostgreSQL) and data querying.
+• Solid understanding of object-oriented programming and software design principles.
+• Strong problem-solving skills and meticulous attention to detail.
+• Excellent communication and teamwork abilities.
+• Bonus: Experience with cloud platforms (AWS, Azure, GCP) and AI/ML services.
+• Bonus: Familiarity with DevOps tools and CI/CD pipelines for AI/ML model deployment.
+
+Additional Requirements:
+• Ability to independently manage and deliver AI/ML projects.
+• Comfortable working full-time on-site during the night shift (EDT time zone).
+• Take efficient and pro active decision and propose generic solutions.
+
+If you are eager to contribute to impactful AI/ML projects and grow within a supportive team environment, we encourage you to apply!

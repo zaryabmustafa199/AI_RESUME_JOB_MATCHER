@@ -1,0 +1,22 @@
+# Core NLP and Data Processing
+nltk==3.8.1             # Fine as is
+spacy==3.7.4            # Fine as is
+gensim==4.3.2           # Fine as is
+transformers==4.36.2    # Fine as is
+sentence-transformers==2.7.0 # Fine as is
+
+# Data Handling
+pandas==2.2.2           # IMPORTANT: Update to a recent version compatible with Python 3.11
+PyPDF2==3.0.1           # Fine as is
+
+# Visualization (if used directly, otherwise optional)
+matplotlib==3.8.2       # Fine as is
+seaborn==0.13.2         # Fine as is
+
+# Application Framework
+streamlit==1.31.0       # Fine as is
+
+# Deep Learning Framework (for transformers, sentence-transformers)
+# IMPORTANT: For CPU-only, explicitly specify 'cpu' to avoid large CUDA downloads or errors.
+# If you have a compatible NVIDIA GPU and CUDA Toolkit installed, you can use `torch==2.2.0` directly.
+torch==2.2.0 -f https://download.pytorch.org/whl/torch_stable.html
